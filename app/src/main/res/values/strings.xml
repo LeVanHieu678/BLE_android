@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HolderBLE</string>
+    <string name="not_support_ble">Device not support feature bluetooth low energy</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="rescan">ReScan</string>
+    <string name="unknown_service">UnknownService</string>
+    <string name="unknown_characteristic">UnknownCharacteristic</string>
+</resources>
